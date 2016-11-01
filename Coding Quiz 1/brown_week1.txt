@@ -1,0 +1,78 @@
+1. <!doctype html>
+
+2. <p>Lorem Ipsum.</p>
+
+3. <a href="http://www.facebook.com"></a>
+
+4. <div class="wrapper">
+
+	</div>
+
+5. <section class ="subheading" id="weekly-special">
+
+	</section>
+
+6. <p id="product-description">
+		<span class="hightlight">
+		</span>
+	</p>
+
+7. * img {
+	
+}
+
+8. .subheading {
+	
+}
+
+9. #total {
+	
+}
+
+10. p {
+	color: blue;
+}
+
+11. div p {
+	background-color: #ffAA00;
+}
+
+12. There is: #, rgb, and simply stating the color.
+	examples include: #ffAA00
+					  (202rgb, 268rgb, 214rgb)
+					  color: green; or background-color: yellow;
+
+13. There is: px, em, and %.
+	examples include; 16px;
+					  2em;
+					  125%;
+
+14. Var users = 42
+
+15. I believe they are: &&, ===, !==, II, ==, =
+
+16.!==, 
+
+17.Var age = 52
+   
+   if {
+   (age>18);
+   }
+   console.log("You can vote!");
+
+18. var countryOfOrigin = U.S.A.
+	
+	if {
+		(U.S.A.);
+	}
+	console.log("Sorry, you are not eligible to be President");
+
+	else {
+		(U.S.A.)
+	}
+	console.log("You at least have a shot!");
+
+
+
+
+
