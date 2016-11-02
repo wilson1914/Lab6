@@ -1,0 +1,7 @@
+1. Write a function that converts temperature.
+2. Your function should accept two arguments. A temperature and a string indicating what unit to convert to (ex. "C" or "F").
+
+Hints:
+Call the function with the following arguments to verify your outputs:
+       - FtoC (212, "C"); // > 100
+       - CtoF (0, "F");// > 0

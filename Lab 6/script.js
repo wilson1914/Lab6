@@ -1,15 +1,21 @@
 
 
-function fToC (degreeInput, targetUnit){
-	var degreeInput = 212;
-	var targetUnit = (degreeInput-32)*5/9;
-		console.log ("The answer is " + targetUnit);
+function convertTemp (degreeInput, targetUnit){
+	var result;
+if (targetUnit==="C") {
+	result = ((degreeInput-32)*5/9);
+		
 }
- fToC (212, "C");
 
-function cToF (degreeInput, targetUnit){
-	var degreeInput = 0
-	var targetUnit = (degreeInput+32)*9/5;
-		console.log ("The answer is " + targetUnit);
+
+if (targetUnit==="F"){
+	result = ((degreeInput+32)*9/5);
+		
 }
-cToF (0, "F");
+console.log ("The answer is " + degreeInput + " " + targetUnit + " " + result);
+}
+
+convertTemp (212, "C"); 
+convertTemp (32, "C"); 
+convertTemp (65, "C"); 
+convertTemp (0, "F"); 
