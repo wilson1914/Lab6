@@ -58,7 +58,3 @@ printedTotal.innerHTML = "Total $ " +groceryList.totalAmount();
 
 document.body.appendChild(printedTotal);
 console.log("Total: $"+total);
-
-
-
-
